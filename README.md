@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Garima
+- 👀 I’m interested in programming. 
+- 🌱 I’m currently learning CSE diploma.
+- 💞️ I’m looking to collaborate on programing so that i get more better in it.
